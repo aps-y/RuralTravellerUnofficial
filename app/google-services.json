@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "699521615120",
+    "firebase_url": "https://ruraltraveller2.firebaseio.com",
+    "project_id": "ruraltraveller2",
+    "storage_bucket": "ruraltraveller2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699521615120:android:2ee2d5ac07d129ba",
+        "android_client_info": {
+          "package_name": "com.example.ruraltraveller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699521615120-br4lfn06532joddnc7rnqoo0mauunahp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ruraltraveller",
+            "certificate_hash": "34f88a91961b7aac9c7884f4972a3c4c00061fee"
+          }
+        },
+        {
+          "client_id": "699521615120-4q77fimneegv7da66gj7qj4th0r1d38q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm5lj5FO7vvGfhQy9BnUrRGC1Cm9boDxM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699521615120-4q77fimneegv7da66gj7qj4th0r1d38q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
